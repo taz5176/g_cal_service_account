@@ -1,0 +1,59 @@
+{
+    "Sun": {
+        "date": "2022-09-25",
+        "events": []
+    },
+    "Mon": {
+        "date": "2022-09-26",
+        "events": [
+            {
+                "title": "No title",
+                "time": "all-day"
+            }
+        ]
+    },
+    "Tue": {
+        "date": "2022-09-27",
+        "events": [
+            {
+                "title": "!testing - daily event!",
+                "time": "all-day"
+            }
+        ]
+    },
+    "Wed": {
+        "date": "2022-09-28",
+        "events": [
+            {
+                "title": "!test - every wed 20:00pm!",
+                "time": "20:00 to 21:00"
+            }
+        ]
+    },
+    "Thu": {
+        "date": "2022-09-29",
+        "events": [
+            {
+                "title": "!test over 2 days!",
+                "time": "all-day"
+            }
+        ]
+    },
+    "Fri": {
+        "date": "2022-09-30",
+        "events": [
+            {
+                "title": "!test!",
+                "time": "16:00 to 17:00"
+            },
+            {
+                "title": "!test over 2 days!",
+                "time": "all-day"
+            }
+        ]
+    },
+    "Sat": {
+        "date": "2022-10-01",
+        "events": []
+    }
+}
